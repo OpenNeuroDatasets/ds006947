@@ -1,0 +1,26 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier matching entries in participants.tsv (format: sub-Damy###).",
+    "Levels": {
+      "sub-Damy001": "Subject Damy001",
+      "sub-Damy002": "Subject Damy002",
+      "sub-Damy003": "Subject Damy003"
+    },
+    "Format": "string"
+  },
+  "recorded_date": {
+    "Description": "Date the responses were recorded (YYYY-MM-DD).",
+    "Format": "date"
+  },
+  "session": {
+    "Description": "BIDS session label (e.g., ses-01).",
+    "Format": "string"
+  },
+  "bdi2_raw": {
+    "Description": "Beck Depression Inventory-II (BDI-II) total score — current depressive symptomatology.",
+    "Units": "arbitrary",
+    "Minimum": 0,
+    "Maximum": 63
+   },
+   "Format": "number"
+}

@@ -1,0 +1,25 @@
+{
+    "SamplingFrequency":1.798561169588938,
+    "StartTime":0.27799999713897705,
+    "Columns":[
+        "Time",
+        "Resp",
+        "Peak"
+    ],
+    "Time":{
+        "Description":"Sample timestamps",
+        "Units":"s"
+    },
+    "Resp":{
+        "Description":"Phase-derived respiratory waveform",
+        "Units":"arbitrary"
+    },
+    "Peak":{
+        "Description":"Labels for peak inhalation and exhalation",
+        "Levels":{
+            "Inhalation":"Time point of peak inhalation",
+            "Exhalation":"Time point of peak exhalation",
+            "n/a":"Not a peak"
+        }
+    }
+}

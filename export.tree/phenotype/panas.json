@@ -1,0 +1,33 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier matching entries in participants.tsv (format: sub-Damy###).",
+    "Levels": {
+      "sub-Damy001": "Subject Damy001",
+      "sub-Damy002": "Subject Damy002",
+      "sub-Damy003": "Subject Damy003"
+    },
+    "Format": "string"
+  },
+  "recorded_date": {
+    "Description": "Date the responses were recorded (YYYY-MM-DD).",
+    "Format": "date"
+  },
+  "session": {
+    "Description": "BIDS session label (e.g., ses-01).",
+    "Format": "string"
+  },
+  "panas_positive_raw": {
+    "Description": "PANAS — Positive Affect total (current general affect-positive). Normative mean = 29.7, SD = 7.9; higher scores = more positive affect.",
+    "Units": "arbitrary",
+    "Format": "number",
+    "Minimum": 0,
+    "Maximum": 50
+  },
+  "panas_negative_raw": {
+    "Description": "PANAS — Negative Affect total (current general affect-negative). Normative mean = 14.8, SD = 5.4; higher scores = more negative affect.",
+    "Units": "arbitrary",
+    "Format": "number",
+    "Minimum": 0,
+    "Maximum": 50
+  }
+}
