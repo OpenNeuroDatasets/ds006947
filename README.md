@@ -7,7 +7,7 @@ This data is released under a Creative Commons Zero (CC0) license.
 J. Michael Tyszka, Ph.D.
 
 ### Data Access Details
-This dataset can be downloaded in BIDS format from OpenNeuro ds006578
+This dataset can be downloaded in BIDS format from OpenNeuro ds006947
 
 ## Overview
 
