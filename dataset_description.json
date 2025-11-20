@@ -21,9 +21,7 @@
     "EthicsApprovals": [
         "Caltech Institutional Review Board (IRB) approval for human subjects research (Protocol IR21-1176)"
     ],
-    "ReferencesAndLinks": [
-        "https://openneuro.org/datasets/ds006578"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds006947.v1.0.0",
     "DatasetType": "raw",
     "GeneratedBy": [
