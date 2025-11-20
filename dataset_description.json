@@ -1,8 +1,8 @@
 {
-    "Name":"Dense complex-valued partial brain BOLD of passive audiovisual movie presentations",
-    "BIDSVersion":"1.10.0",
-    "License":"This data is made available under the Creative Commons Zero (CC0) license",
-    "Authors":[
+    "Name": "Dense complex-valued partial brain BOLD of passive audiovisual movie presentations",
+    "BIDSVersion": "1.10.0",
+    "License": "CC0",
+    "Authors": [
         "J. Michael Tyszka",
         "Zachary Diamandis",
         "Umit Keles",
@@ -13,18 +13,18 @@
         "David A. Kahn",
         "Ralph Adolphs"
     ],
-    "Acknowledgments":"This project was funded in part by a grant from the T&C Chen Center for Social and Decision Neuroscience at Caltech",
-    "HowToAcknowledge":"Pending",
-    "Funding":[
+    "Acknowledgments": "This project was funded in part by a grant from the T&C Chen Center for Social and Decision Neuroscience at Caltech",
+    "HowToAcknowledge": "Pending",
+    "Funding": [
         "T&C Chen Center for Social and Decision Neuroscience Award, 2020"
     ],
-    "EthicsApprovals":[
+    "EthicsApprovals": [
         "Caltech Institutional Review Board (IRB) approval for human subjects research (Protocol IR21-1176)"
     ],
-    "ReferencesAndLinks":[
+    "ReferencesAndLinks": [
         "https://openneuro.org/datasets/ds006578"
     ],
-    "DatasetDOI":"Pending",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006947.v1.0.0",
     "DatasetType": "raw",
     "GeneratedBy": [
         {
