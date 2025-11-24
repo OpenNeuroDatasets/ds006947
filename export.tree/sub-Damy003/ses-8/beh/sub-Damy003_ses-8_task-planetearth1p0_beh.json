@@ -1,0 +1,21 @@
+{
+  "TaskName": "planetearth1p0",
+  "AcquisitionNotes": "Ratings collected during a separate re-watch session outside the scanner; aligned to stimulus (movie) time. Each row spans from the previous rating timestamp (or 0 for the first) up to the current rating timestamp.",
+  "onset": {
+    "Description": "Start of the interval summarized by the rating (s from start of re-watch).",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Length of the interval from previous rating to current rating.",
+    "Units": "s"
+  },
+  "valence": {
+    "Description": "Subjective valence rating (-5 very negative to +5 very positive)."
+  },
+  "arousal": {
+    "Description": "Subjective arousal rating (0 calm to 5 most aroused)."
+  },
+  "anxiety": {
+    "Description": "Subjective anxiety rating (0 none to 5 most anxious)."
+  }
+}
