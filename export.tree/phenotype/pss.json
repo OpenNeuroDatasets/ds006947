@@ -1,0 +1,26 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier matching entries in participants.tsv (format: sub-Damy###).",
+    "Levels": {
+      "sub-Damy001": "Subject Damy001",
+      "sub-Damy002": "Subject Damy002",
+      "sub-Damy003": "Subject Damy003"
+    },
+    "Format": "string"
+  },
+  "recorded_date": {
+    "Description": "Date the responses were recorded (YYYY-MM-DD).",
+    "Format": "date"
+  },
+  "session": {
+    "Description": "BIDS session label (e.g., ses-01).",
+    "Format": "string"
+  },
+  "pss_raw": {
+    "Description": "Perceived Stress Scale (PSS) total score — degree to which situations in one’s life are appraised as stressful. Norms for males: mean = 12.1, SD = 5.9; for females: mean = 13.7, SD = 6.6. Higher scores = greater perceived stress.",
+    "Units": "arbitrary",
+    "Format": "number",
+    "Minimum": 0,
+    "Maximum": 40
+  }
+}

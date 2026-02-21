@@ -1,0 +1,38 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier matching entries in participants.tsv (format: sub-Damy###).",
+    "Levels": {
+      "sub-Damy001": "Subject Damy001",
+      "sub-Damy002": "Subject Damy002",
+      "sub-Damy003": "Subject Damy003"
+    },
+    "Format": "string"
+  },
+  "recorded_date": {
+    "Description": "Date the responses were recorded (in YYYY-MM-DD format).",
+    "Format": "date"
+  },
+  "session": {
+    "Description": "BIDS session label (e.g., ses-01).",
+    "Format": "string"
+  },
+  "sleep": {
+    "Description": "How many hours did you sleep last night?",
+    "Units": "hours"
+  },
+  "awake": {
+    "Description": "How awake do you feel right now? [1 = very sleepy, 10 = very awake]",
+    "Units": "arbitrary",
+    "Format": "number"
+  },
+  "enjoyment": {
+    "Description": "How much did you enjoy today's movie clips? [1 = not at all, 5 = very much]",
+    "Units": "arbitrary",
+    "Format": "number"
+  },
+  "engagement": {
+    "Description": "How much did you find today's movie clips engaging? [1 = not at all, 5 = very much]",
+    "Units": "arbitrary",
+    "Format": "number"
+  }
+}

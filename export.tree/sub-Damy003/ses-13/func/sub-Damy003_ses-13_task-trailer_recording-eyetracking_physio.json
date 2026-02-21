@@ -1,0 +1,16 @@
+{
+    "SamplingFrequency":499.94101884914215,
+    "StartTime":80.24835730354425,
+    "Columns":[
+        "Time",
+        "PupilMeasure1"
+    ],
+    "Time":{
+        "Description":"Eyetracking timestamp",
+        "Units":"seconds"
+    },
+    "PupilMeasure1":{
+        "Description":"Pupil area measure from eye tracker",
+        "Units":"pixels squared"
+    }
+}
