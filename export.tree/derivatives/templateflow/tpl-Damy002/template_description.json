@@ -1,0 +1,18 @@
+{
+  "Authors": [ "Tyszka JM" ],
+  "BIDSVersion": "1.1.0",
+  "Curators": [ "Tyszka JM" ],
+  "Identifier": "Damy002",
+  "License": "See LICENSE file",
+  "Name": "Dense Amygdala participant 1"
+  "RRID": "",
+  "ReferencesAndLinks": [ "" ],
+  "TemplateFlowVersion": "1.0.0",
+  "res": {
+    "01": {
+      "origin": [ -96.0, -132.0, -78.0 ],
+      "shape": [ 193, 229, 193 ],
+      "zooms": [ 1.0, 1.0, 1.0 ]
+    }
+  }
+}

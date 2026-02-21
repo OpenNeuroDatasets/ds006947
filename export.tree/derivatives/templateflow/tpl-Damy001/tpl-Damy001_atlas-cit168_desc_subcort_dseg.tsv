@@ -1,0 +1,27 @@
+Index	Abbreviation	Structure
+1	Pu	Putamen
+2	Ca	Caudate Nucleus
+3	NAC	Nucleus Accumbens
+4	EXA	Extended Amygdala
+5	GPe	Globus Pallidus (external)
+6	GPi	Globus Pallidus (internal)
+7	SNc	Substantia Nigra (pars compacta)
+8	RN	Red Nucleus
+9	SNr	Substantia Nigra (pars reticulata)
+10	PBP	Parabrachial Pigmented Nucleus
+11	VTA	Ventral Tegmental Area
+12	VeP	Ventral Pallidum
+13	HN	Habenular Nucleus
+14	HTH	Hypothalamus
+15	MN	Mammilary Nucleus
+16	STH	Subthalamic Nucleus
+17	AMY_BLN_La	Amygdala Lateral Nucleus
+18	AMY_BLN_BL_BLD+BLI	Amygdala Basolateral Nucleus (dorsal and intermediate divisions)
+19	AMY_BLN_BM	Amygdala Basomedial Nucleus
+20	AMY_CEN	Amygdala Central Nucleus
+21	AMY_CMN	Amygdala Corticomedial Nuclei
+22	AMY_BLN_BLV	Amygdala Basolateral Nucleus (ventral division)
+23	AMY_ATA	Amygdaloid Transition Areas (cortical and hippocampal)
+24	AMY_ATA_ASTA	Amygdalostriatal Transition Area
+25	AMY_AAA	Anterior Amygdaloid Area
+26	AMY	Amygdala (other)

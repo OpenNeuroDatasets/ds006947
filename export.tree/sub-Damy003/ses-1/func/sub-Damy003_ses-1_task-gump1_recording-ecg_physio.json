@@ -1,0 +1,26 @@
+{
+    "SamplingFrequency":400.0,
+    "StartTime":0.0,
+    "Columns":[
+        "Time",
+        "PULS",
+        "RESP",
+        "ACQ"
+    ],
+    "Time":{
+        "Description":"Sample timestamps",
+        "Units":"s"
+    },
+    "RESP":{
+        "Description":"Respiratory transducer waveform",
+        "Units":"arbitrary"
+    },
+    "PULS":{
+        "Description":"Peripheral pulse waveform",
+        "Units":"arbitrary"
+    },
+    "ACQ":{
+        "Description":"Acquisition trigger",
+        "Units":"arbitrary"
+    }
+}

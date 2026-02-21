@@ -1,0 +1,46 @@
+{
+    "SamplingFrequency":400.0,
+    "StartTime":0.0,
+    "Columns":[
+        "Time",
+        "ECG1",
+        "ECG2",
+        "ECG3",
+        "ECG4",
+        "PULS",
+        "RESP",
+        "ACQ"
+    ],
+    "Time":{
+        "Description":"Sample timestamps",
+        "Units":"s"
+    },
+    "ECG1":{
+        "Description":"Electrocardiogram channel 1",
+        "Units":"arbitrary"
+    },
+    "ECG2":{
+        "Description":"Electrocardiogram channel 2",
+        "Units":"arbitrary"
+    },
+    "ECG3":{
+        "Description":"Electrocardiogram channel 3",
+        "Units":"arbitrary"
+    },
+    "ECG4":{
+        "Description":"Electrocardiogram channel 4",
+        "Units":"arbitrary"
+    },
+    "RESP":{
+        "Description":"Respiratory transducer waveform",
+        "Units":"arbitrary"
+    },
+    "PULS":{
+        "Description":"Peripheral pulse waveform",
+        "Units":"arbitrary"
+    },
+    "ACQ":{
+        "Description":"Acquisition trigger",
+        "Units":"arbitrary"
+    }
+}
